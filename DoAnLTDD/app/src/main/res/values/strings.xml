@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="title">Gym and Life</string>
+    <string name="group1">Tuần 1</string>
+    <string name="group2">Tuần 2</string>
+    <string name="group3">Tuần 3</string>
+    <string name="group4">Tuần 4</string>
+
+    <string-array name="group1">
+        <item>Ngày 1 </item>
+        <item>Ngày 2 </item>
+        <item>Ngày 3 </item>
+        <item>Ngày 4 </item>
+        <item>Ngày 5 </item>
+    </string-array>
+    <string-array name="group2">
+        <item>Ngày 1 </item>
+        <item>Ngày 2 </item>
+        <item>Ngày 3 </item>
+        <item>Ngày 4 </item>
+        <item>Ngày 5 </item>
+    </string-array>
+    <string-array name="group3">
+        <item>Ngày 1 </item>
+        <item>Ngày 2 </item>
+        <item>Ngày 3 </item>
+        <item>Ngày 4 </item>
+        <item>Ngày 5 </item>
+    </string-array>
+    <string-array name="group4">
+        <item>Ngày 1 </item>
+        <item>Ngày 2 </item>
+        <item>Ngày 3 </item>
+        <item>Ngày 4 </item>
+        <item>Ngày 5 </item>
+    </string-array>
+    <string name="adominalcrunch">Ở tư thế nằm ngửa và với hai chân cong, giữ cho đầu và vai hơi nhô lên khỏi mặt đất.\n
+        Hai cánh tay đưa thẳng về trước song song với cơ tứ đầu..\n
+        Gồng cơ bụng, cuộn tròn và đẩy về phía trước.\n
+        Duy trì sự co thắt trong vài giây. Nghiêng cằm của bạn một chút.\n
+        Giữ cho bụng của bạn kéo vào trong toàn bộ phạm vi chuyển động.\n
+        Quay trở lại vị trí bắt đầu bằng cách thư giãn các cơ bụng.</string>
+    <string name="bicyclecrunch">Nằm ngửa, hai tay ôm nhẹ phần trên gáy, nhấc vai lên vào tư thế gập bụng.\n
+        Nhấc hai chân lên, hơi co lại, thả lỏng. Hít vào, siết chặt bụng, đá chân phải tới trước, thu đầu gối trái vào sát người.\n
+        Đồng thời đưa khuỷu tay phải lại gần gối trái bằng cách gập bên cạnh và thở ra.</string>
+</resources>
